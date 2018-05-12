@@ -2,7 +2,7 @@
 obmed - Openbox menu editor
 
 Usage:
-    obmed read [--menu <FILE>]
+    obmed print [--menu <FILE>]
     obmed add <line_number> [--menu <FILE>]
     obmed remove <line_number> [--menu <FILE>]
     obmed modify <line_number> [--menu <FILE>]
